@@ -272,7 +272,7 @@ justify-content: space-evenly;}
         width: 100%;
     }
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:420px){
     header{
         /* padding: 5px; */
         background-image: url(./images/mobile/image-hero.jpg);
